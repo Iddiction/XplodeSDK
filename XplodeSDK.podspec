@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "XplodeSDK"
-  spec.version      = "2.6.2"
+  spec.version      = "2.7"
   spec.summary      = "Xplode is the world's first 100% native platform for mobile app developers to promote their apps, grow users, and boost revenue."
   
   spec.homepage 	= "http://xplode.iddiction.com"
